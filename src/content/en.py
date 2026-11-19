@@ -194,10 +194,10 @@ L = {
  'from-positano': {
     'slug': 'boat-tours-from-positano', 'nav': 'Boat tours from Positano',
     'teaser': 'Capri, sunset cruises and private boats leaving from Positano beach.',
-    'title': 'Boat Tours from Positano: Capri, Sunset & Private (2027 Guide)',
-    'desc': 'All boat tours from Positano compared: Capri day trips, sunset cruises, private boats, prices, departure point and tips.',
+    'title': 'Positano Boat Tours: Capri Day Trip, Sunset & Private (2027)',
+    'desc': 'Positano boat tours compared: the Capri boat tour from Positano (7–8 hours, about €95–170 per person), sunset cruises, private boats and where they leave.',
     'h1': 'Boat tours from Positano', 'lead': 'Positano is the most popular base for boat days, with tours leaving straight from the beach.',
-    'answer': 'From Positano the best full-day option is a small-group Capri boat tour; with only an evening, take the sunset cruise to Li Galli. Groups and families should price a private gozzo.',
+    'answer': 'From Positano the best full-day option is a small-group Capri boat tour: 7 to 8 hours, about 45 to 60 minutes each way, usually €95–170 per person. With only an evening, take the sunset cruise to Li Galli (€50–95). Groups and families should price a private gozzo, roughly €900–2,200 per boat.',
     'body': '''<h2>Where boats leave from</h2>
 <p>Almost all tours start from the pier on Spiaggia Grande, the main beach, a short walk down from the centre. Operators have kiosks along the beach. Arrive 15 minutes early; in summer the pier is busy and boats leave on time.</p>
 <h2>Your options</h2>
@@ -205,9 +205,19 @@ L = {
 <li><b>Sunset cruise</b> (2–3 hours): Li Galli, a swim and an aperitivo. <a href="{tour:sunset-positano}">Details</a>.</li>
 <li><b>Private boat to Capri</b>: same route, your pace. <a href="{tour:private-capri}">Details</a>.</li>
 <li><b>Private coast cruise</b>: Praiano, Furore and the Emerald Grotto in a half day. <a href="{tour:private-coast}">Details</a>.</li></ul>
+<h2>Capri boat tour from Positano: how the day goes</h2>
+<p>Boarding is usually between 9 and 10 in the morning at the Spiaggia Grande pier. The boat stops for a swim off the Li Galli islands or near Nerano, then crosses to Capri in 45 to 60 minutes. The first part on Capri is a slow lap of the island from the water: the Faraglioni and their arch, the green and white grottoes, the Punta Carena lighthouse and the Blue Grotto, if the sea lets it open. Then you get two to four hours ashore at Marina Grande, enough for the funicular up to the Piazzetta and lunch. You are back in Positano between 5 and 6 in the afternoon.</p>
+<p>Shared small-group tours cost about €95–170 per person in season. Drinks and snorkel masks are often included; lunch, the funicular and the Blue Grotto rowing boat (around €20, cash) are not. Full route map and our score: <a href="{tour:capri-positano}">Capri boat tour from Positano</a>.</p>
+<h2>Positano to Capri: tour, ferry or private boat?</h2>
+<table><tr><th>Option</th><th>Typical cost</th><th>What you get</th></tr>
+<tr><td>Public ferry</td><td>around €25–30 each way</td><td>Fastest transfer, no lap of the island, no swim stops, fixed timetable</td></tr>
+<tr><td>Shared boat tour</td><td>€95–170 per person</td><td>Lap of Capri, Blue Grotto stop, swim stops, time ashore</td></tr>
+<tr><td>Private gozzo</td><td>€900–2,200 per boat</td><td>Same sights at your pace; good value from about six people</td></tr></table>
+<p>If you only want a day walking around Capri town and Anacapri, the ferry is enough. If you want to see the island from the sea and swim, the tour is the better day. Fares and prices change by season: check them for your dates.</p>
 <h2>Tips</h2>
 <p>Book the Capri day for early in your stay so you have a spare day if the sea is rough. Pack cash for the Blue Grotto and the funicular, a hat and reef-safe sunscreen. If you are prone to seasickness, sit at the back of the boat and choose a morning departure, when the sea is usually calmer.</p>''',
-    'faq': [('How long is the boat ride from Positano to Capri?', 'About 45 to 60 minutes in a typical tour boat, depending on the boat and the sea.'),
+    'faq': [('How much is a boat tour from Positano to Capri?', 'A shared small-group Capri boat tour from Positano usually costs €95–170 per person. A private gozzo for the day is roughly €900–2,200 for the whole boat. The Blue Grotto entry is paid separately on the spot.'),
+            ('How long is the boat ride from Positano to Capri?', 'About 45 to 60 minutes in a typical tour boat, depending on the boat and the sea.'),
             ('Can I go from Positano to Capri without a tour?', 'Yes, by public ferry in season. A tour adds the lap of the island and swim stops that the ferry does not.'),
             ('Do Positano boat tours run in winter?', 'Very few. The season runs roughly from April to October.')]},
  'from-amalfi': {
