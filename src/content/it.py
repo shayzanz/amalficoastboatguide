@@ -193,8 +193,8 @@ L = {
  'from-positano': {
     'slug': 'gite-in-barca-da-positano', 'nav': 'Gite in barca da Positano',
     'teaser': 'Capri, tramonto e barche private in partenza dalla spiaggia di Positano.',
-    'title': 'Gite in barca da Positano: Capri, tramonto e barca privata',
-    'desc': 'Tutte le gite in barca da Positano a confronto: giornate a Capri, uscite al tramonto, barche private, prezzi, punto di partenza e consigli.',
+    'title': 'Gite in barca da Positano: Capri, tramonto e barca privata (2027)',
+    'desc': 'Gite in barca da Positano a confronto: Capri in barca da Positano (7–8 ore, circa 95–170 € a persona), tramonto, barche private e da dove si parte.',
     'h1': 'Gite in barca da Positano', 'lead': 'Positano è la base più richiesta per le giornate in barca, con partenze direttamente dalla spiaggia.',
     'answer': 'Da Positano la migliore giornata intera è una gita a Capri in piccolo gruppo; se hai solo una sera, scegli il tramonto verso Li Galli. Gruppi e famiglie dovrebbero chiedere il prezzo di un gozzo privato.',
     'body': '''<h2>Da dove partono le barche</h2>
@@ -204,9 +204,19 @@ L = {
 <li><b>Uscita al tramonto</b> (2–3 ore): Li Galli, un bagno e un aperitivo. <a href="{tour:sunset-positano}">Dettagli</a>.</li>
 <li><b>Barca privata a Capri</b>: stesso percorso, con i tuoi tempi. <a href="{tour:private-capri}">Dettagli</a>.</li>
 <li><b>Crociera privata in costiera</b>: Praiano, Furore e la Grotta dello Smeraldo in mezza giornata. <a href="{tour:private-coast}">Dettagli</a>.</li></ul>
+<h2>Capri in barca da Positano: com'è la giornata</h2>
+<p>Si sale a bordo di solito tra le 9 e le 10 al pontile della Spiaggia Grande. Prima sosta bagno a Li Galli o verso Nerano, poi la traversata per Capri, 45–60 minuti. La prima parte è il giro dell'isola dal mare: Faraglioni con l'arco, grotta verde e grotta bianca, faro di Punta Carena e Grotta Azzurra, se il mare la lascia aperta. Poi due-quattro ore libere a Marina Grande, il tempo per la funicolare fino alla Piazzetta e il pranzo. Si rientra a Positano tra le 17 e le 18.</p>
+<p>Le gite condivise in piccolo gruppo costano circa 95–170 € a persona in stagione. Bevande e maschera sono spesso incluse; pranzo, funicolare e barchetta della Grotta Azzurra (circa 20 €, in contanti) no. Mappa del percorso e voto: <a href="{tour:capri-positano}">gita a Capri in barca da Positano</a>.</p>
+<h2>Da Positano a Capri: gita, traghetto o barca privata?</h2>
+<table><tr><th>Opzione</th><th>Costo indicativo</th><th>Cosa offre</th></tr>
+<tr><td>Traghetto di linea</td><td>circa 25–30 € a tratta</td><td>Il trasferimento più rapido, senza giro dell'isola né bagni, orari fissi</td></tr>
+<tr><td>Gita condivisa</td><td>95–170 € a persona</td><td>Giro di Capri, sosta alla Grotta Azzurra, bagni, tempo libero sull'isola</td></tr>
+<tr><td>Gozzo privato</td><td>900–2.200 € a barca</td><td>Stesse tappe con i tuoi tempi; conviene da circa sei persone</td></tr></table>
+<p>Se vuoi solo passeggiare tra Capri e Anacapri basta il traghetto. Se vuoi vedere l'isola dal mare e fare il bagno, la gita è la giornata migliore. Prezzi e tariffe cambiano con la stagione: controllali per le tue date.</p>
 <h2>Consigli</h2>
 <p>Prenota la giornata a Capri all'inizio del soggiorno, così hai un giorno di riserva se il mare è mosso. Porta contanti per la Grotta Azzurra e la funicolare, un cappello e una crema solare rispettosa del mare. Se soffri il mal di mare, siediti a poppa e scegli una partenza al mattino, quando il mare di solito è più calmo.</p>''',
-    'faq': [('Quanto dura la traversata da Positano a Capri?', 'Circa 45–60 minuti con una tipica barca da escursione, a seconda della barca e del mare.'),
+    'faq': [('Quanto costa una gita in barca da Positano a Capri?', 'Una gita condivisa in piccolo gruppo costa di solito 95–170 € a persona. Un gozzo privato per la giornata va da circa 900 a 2.200 € per tutta la barca. L\'ingresso alla Grotta Azzurra si paga a parte, sul posto.'),
+            ('Quanto dura la traversata da Positano a Capri?', 'Circa 45–60 minuti con una tipica barca da escursione, a seconda della barca e del mare.'),
             ('Si può andare da Positano a Capri senza gita?', 'Sì, con il traghetto di linea in stagione. La gita aggiunge il giro dell\'isola e le soste bagno che il traghetto non fa.'),
             ('Le gite in barca da Positano ci sono anche d\'inverno?', 'Pochissime. La stagione va più o meno da aprile a ottobre.')]},
  'from-amalfi': {
@@ -230,7 +240,7 @@ L = {
  'from-sorrento': {
     'slug': 'gite-in-barca-da-sorrento', 'nav': 'Gite in barca da Sorrento',
     'teaser': 'La via più breve per Capri, più le giornate in barca a Positano e Amalfi.',
-    'title': 'Gite in barca da Sorrento: Capri, Positano e Amalfi dal mare',
+    'title': 'Gite da Sorrento in barca: Capri, Positano e Amalfi (2027)',
     'desc': 'Gite in barca da Sorrento a confronto: giornate a Capri, crociere in Costiera fino a Positano e Amalfi, barche private, prezzi e consigli.',
     'h1': 'Gite in barca da Sorrento', 'lead': 'Sorrento ha più partenze di tutti e la traversata più breve verso Capri.',
     'answer': 'Da Sorrento una gita condivisa a Capri ti dà più tempo sull\'isola a parità di prezzo. Se vuoi vedere la Costiera Amalfitana, scegli la giornata in barca a Positano e Amalfi invece della strada costiera.',

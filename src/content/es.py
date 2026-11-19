@@ -230,7 +230,7 @@ L = {
  'from-sorrento': {
     'slug': 'excursiones-en-barco-desde-sorrento', 'nav': 'Excursiones en barco desde Sorrento',
     'teaser': 'El camino más corto a Capri, y días en barco a Positano y Amalfi.',
-    'title': 'Excursiones en barco desde Sorrento: Capri, Positano y Amalfi',
+    'title': 'Excursiones desde Sorrento en barco: Capri, Positano y Amalfi',
     'desc': 'Excursiones en barco desde Sorrento comparadas: días en Capri, paseos por la Costa Amalfitana hasta Positano y Amalfi, barcos privados, precios y consejos.',
     'h1': 'Excursiones en barco desde Sorrento', 'lead': 'Sorrento tiene más salidas que ningún otro puerto y la travesía más corta a Capri.',
     'answer': 'Desde Sorrento, una excursión compartida a Capri te da más tiempo en la isla por el mismo dinero. Si quieres ver la Costa Amalfitana, elige el día en barco a Positano y Amalfi en lugar de la carretera de la costa.',
