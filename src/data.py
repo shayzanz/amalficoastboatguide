@@ -3,6 +3,7 @@
 DOMAIN = 'amalficoastboatguide.com'
 SITE_NAME = 'Amalfi Coast Boat Guide'
 GYG_PID = 'EQTZMZ9'
+GA4_ID = 'G-4TQM36BTE0'  # Google Analytics 4, loaded only after cookie consent
 VIATOR_PID = 'P00328677'
 VIATOR_MCID = '42383'
 WHATSAPP = '393938552086'

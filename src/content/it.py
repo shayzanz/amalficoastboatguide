@@ -20,7 +20,7 @@ L = {
     'footer_about': 'Una guida comparativa indipendente alle gite in barca in Costiera Amalfitana e a Capri. Spieghiamo le opzioni, le valutiamo in modo trasparente e rimandiamo a partner di prenotazione affidabili.',
     'disclosure': 'Alcuni link sono di affiliazione (GetYourGuide, Viator): se prenoti, potremmo ricevere una commissione senza costi aggiuntivi per te. Non cambia mai i nostri voti.',
     'how_we_rate': 'Come valutiamo', 'wa_short': 'Scrivici', 'wa_msg': 'Ciao! Vorrei un aiuto per scegliere una gita in barca in Costiera Amalfitana',
-    'consent_text': 'Usiamo contenuti di terze parti (tour live di GetYourGuide) che possono impostare cookie. Accetta per mostrarli, oppure continua senza.',
+    'consent_text': 'Usiamo cookie per le statistiche delle visite (Google Analytics) e per mostrare i tour live di GetYourGuide. Accetta per attivarli, oppure continua senza.',
     'consent_yes': 'Accetto', 'consent_no': 'No, grazie',
     'widget_consent': 'Qui compaiono tour, prezzi e valutazioni verificate dei clienti di GetYourGuide dopo che accetti i loro cookie.',
     'widget_show': 'Mostra i tour live', 'open_gyg': 'Apri su GetYourGuide',
@@ -361,7 +361,8 @@ L = {
 'privacy': {'title': 'Privacy e cookie | Amalfi Coast Boat Guide', 'desc': 'Informativa privacy e cookie di amalficoastboatguide.com.',
             'h1': 'Privacy e cookie',
             'body': '''<p>Questo sito è gestito da {OWNER}. Contatto: {EMAIL}.</p>
-<h2>Quali dati raccogliamo</h2><p>Non usiamo cookie analitici o pubblicitari nostri e non ci sono account utente. Il fornitore di hosting (Netlify) tratta dati tecnici come l'indirizzo IP nei log del server per erogare il sito in sicurezza.</p>
+<h2>Quali dati raccogliamo</h2><p>Non ci sono account utente e non usiamo cookie pubblicitari. Il fornitore di hosting (Netlify) tratta dati tecnici come l'indirizzo IP nei log del server per erogare il sito in sicurezza.</p>
+<h2>Statistiche delle visite (Google Analytics)</h2><p>Solo se accetti i cookie, usiamo Google Analytics 4 (Google Ireland Ltd.) per contare le visite e capire quali pagine e link di prenotazione vengono usati, così sappiamo cosa migliorare. Google Analytics 4 non memorizza gli indirizzi IP, non lo usiamo per pubblicità e non condividiamo i dati con reti pubblicitarie. I dati sono conservati al massimo 14 mesi. Se rifiuti, Google Analytics non viene caricato affatto. Vedi l'informativa privacy di Google.</p>
 <h2>Contenuti di terze parti</h2><ul>
 <li><b>Widget GetYourGuide:</b> si carica solo dopo il tuo consenso. GetYourGuide può impostare cookie per mostrare i tour e attribuire le prenotazioni. Vedi l'informativa privacy di GetYourGuide.</li>
 <li><b>Link di affiliazione</b> a GetYourGuide e Viator: quando clicchi, quei siti possono impostare cookie secondo le loro informative.</li>

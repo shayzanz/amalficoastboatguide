@@ -21,7 +21,7 @@ L = {
     'footer_about': 'An independent comparison guide to boat tours on the Amalfi Coast and to Capri. We explain the options, score them openly and link to booking partners.',
     'disclosure': 'Some links are affiliate links (GetYourGuide, Viator): if you book, we may earn a commission at no extra cost to you. It never changes our scores.',
     'how_we_rate': 'How we rate', 'wa_short': 'Ask us', 'wa_msg': 'Hi! I would like help choosing a boat tour on the Amalfi Coast',
-    'consent_text': 'We use third-party content (GetYourGuide live tours) that may set cookies. Accept to show it, or keep browsing without it.',
+    'consent_text': 'We use cookies for visit statistics (Google Analytics) and to show live tours from GetYourGuide. Accept to allow them, or keep browsing without.',
     'consent_yes': 'Accept', 'consent_no': 'No thanks',
     'widget_consent': 'Live tours, prices and verified customer ratings from GetYourGuide load here once you accept their cookies.',
     'widget_show': 'Show live tours', 'open_gyg': 'Open on GetYourGuide',
@@ -362,7 +362,8 @@ L = {
 'privacy': {'title': 'Privacy & Cookies | Amalfi Coast Boat Guide', 'desc': 'Privacy and cookie policy of amalficoastboatguide.com.',
             'h1': 'Privacy and cookies',
             'body': '''<p>This website is operated by {OWNER}. Contact: {EMAIL}.</p>
-<h2>What we collect</h2><p>We do not use our own analytics or advertising cookies and we have no user accounts. Our hosting provider (Netlify) processes technical data such as IP address in server logs to deliver the site securely.</p>
+<h2>What we collect</h2><p>We have no user accounts and we do not use advertising cookies. Our hosting provider (Netlify) processes technical data such as IP address in server logs to deliver the site securely.</p>
+<h2>Visit statistics (Google Analytics)</h2><p>Only if you accept cookies, we use Google Analytics 4 (Google Ireland Ltd.) to count visits and see which pages and booking links people use, so we know what to improve. Google Analytics 4 does not store IP addresses, and we do not use it for advertising or share the data with ad networks. Data is kept for at most 14 months. If you decline, Google Analytics is not loaded at all. See Google's privacy policy.</p>
 <h2>Third-party content</h2><ul>
 <li><b>GetYourGuide widget:</b> loads only after you accept. GetYourGuide may set cookies to show tours and attribute bookings. See GetYourGuide's privacy policy.</li>
 <li><b>Affiliate links</b> to GetYourGuide and Viator: when you click, those sites may set cookies under their own policies.</li>

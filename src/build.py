@@ -11,7 +11,7 @@ from datetime import date
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, HERE)
-from data import (DOMAIN, SITE_NAME, GYG_PID, VIATOR_PID, VIATOR_MCID, WHATSAPP,
+from data import (DOMAIN, SITE_NAME, GYG_PID, GA4_ID, VIATOR_PID, VIATOR_MCID, WHATSAPP,
                   INDEXNOW_KEY, OWNER_NAME, OWNER_EMAIL, STOPS, TOURS, GUIDES,
                   PARTNER_ORDER, TOUR_PARTNER, PARTNER_NAME, GYG_TOUR_IDS, VIATOR_WIDGETS, IMAGES,
                   CRITERIA, overall)
@@ -319,7 +319,7 @@ def page(l, key, item, title, desc, body, schema=None, og_type='website', noinde
   <div><button type="button" class="btn btn-primary js-consent-yes">{u['consent_yes']}</button>
   <button type="button" class="btn btn-ghost js-consent-no">{u['consent_no']}</button></div>
 </div>
-<script>window.GYG_PID="{GYG_PID}";</script>
+<script>window.GYG_PID="{GYG_PID}";window.GA4_ID="{GA4_ID}";</script>
 <script src="/assets/site.js?v={TODAY}" defer></script>
 </body>
 </html>'''
