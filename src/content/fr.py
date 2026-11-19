@@ -20,7 +20,7 @@ L = {
     'footer_about': 'Un guide comparatif indépendant des excursions en bateau sur la côte amalfitaine et à Capri. Nous expliquons les options, les notons en toute transparence et renvoyons vers des partenaires de réservation fiables.',
     'disclosure': 'Certains liens sont affiliés (GetYourGuide, Viator) : si vous réservez, nous pouvons toucher une commission sans surcoût pour vous. Cela ne change jamais nos notes.',
     'how_we_rate': 'Notre méthode', 'wa_short': 'Écrivez-nous', 'wa_msg': 'Bonjour ! J\'aimerais de l\'aide pour choisir une excursion en bateau sur la côte amalfitaine',
-    'consent_text': 'Nous utilisons un contenu tiers (excursions en direct de GetYourGuide) susceptible de déposer des cookies. Acceptez pour l\'afficher, ou continuez sans.',
+    'consent_text': 'Nous utilisons des cookies pour des statistiques de visite (Google Analytics) et pour afficher les excursions en direct de GetYourGuide. Acceptez pour les autoriser, ou continuez sans.',
     'consent_yes': 'Accepter', 'consent_no': 'Non merci',
     'widget_consent': 'Les excursions, prix et avis clients vérifiés de GetYourGuide s\'affichent ici une fois leurs cookies acceptés.',
     'widget_show': 'Afficher les excursions', 'open_gyg': 'Ouvrir sur GetYourGuide',
@@ -361,7 +361,8 @@ L = {
 'privacy': {'title': 'Confidentialité et cookies | Amalfi Coast Boat Guide', 'desc': 'Politique de confidentialité et de cookies d\'amalficoastboatguide.com.',
             'h1': 'Confidentialité et cookies',
             'body': '''<p>Ce site est exploité par {OWNER}. Contact : {EMAIL}.</p>
-<h2>Données collectées</h2><p>Nous n'utilisons pas de cookies d'analyse ou de publicité propres et il n'y a pas de comptes utilisateurs. Notre hébergeur (Netlify) traite des données techniques comme l'adresse IP dans les journaux du serveur pour diffuser le site en toute sécurité.</p>
+<h2>Données collectées</h2><p>Il n'y a pas de comptes utilisateurs et nous n'utilisons pas de cookies publicitaires. Notre hébergeur (Netlify) traite des données techniques comme l'adresse IP dans les journaux du serveur pour diffuser le site en toute sécurité.</p>
+<h2>Statistiques de visite (Google Analytics)</h2><p>Uniquement si vous acceptez les cookies, nous utilisons Google Analytics 4 (Google Ireland Ltd.) pour compter les visites et voir quelles pages et quels liens de réservation sont utilisés, afin de savoir quoi améliorer. Google Analytics 4 n'enregistre pas les adresses IP, nous ne l'utilisons pas pour la publicité et ne partageons pas les données avec des régies. Les données sont conservées 14 mois au maximum. Si vous refusez, Google Analytics n'est pas chargé du tout. Voir la politique de confidentialité de Google.</p>
 <h2>Contenus tiers</h2><ul>
 <li><b>Widget GetYourGuide :</b> chargé uniquement après votre consentement. GetYourGuide peut déposer des cookies pour afficher les excursions et attribuer les réservations. Voir la politique de confidentialité de GetYourGuide.</li>
 <li><b>Liens affiliés</b> vers GetYourGuide et Viator : lorsque vous cliquez, ces sites peuvent déposer des cookies selon leurs propres politiques.</li>

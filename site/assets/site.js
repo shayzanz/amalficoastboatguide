@@ -27,15 +27,46 @@ function loadGYG(){
   s.src='https://widget.getyourguide.com/dist/pa.umd.production.min.js';
   s.setAttribute('data-gyg-partner-id',window.GYG_PID);document.body.appendChild(s);
 }
+/* Google Analytics 4, loaded only after consent; no ads features */
+var gaLoaded=false;
+function gtag(){window.dataLayer.push(arguments)}
+function loadGA(){
+  if(gaLoaded||!window.GA4_ID)return;gaLoaded=true;
+  window.dataLayer=window.dataLayer||[];window.gtag=gtag;
+  gtag('consent','default',{ad_storage:'denied',ad_user_data:'denied',ad_personalization:'denied',analytics_storage:'granted'});
+  gtag('js',new Date());
+  gtag('config',window.GA4_ID,{allow_google_signals:false,allow_ad_personalization_signals:false});
+  var s=document.createElement('script');s.async=true;
+  s.src='https://www.googletagmanager.com/gtag/js?id='+encodeURIComponent(window.GA4_ID);
+  document.head.appendChild(s);
+}
+function denyGA(){if(gaLoaded)gtag('consent','update',{analytics_storage:'denied'})}
+function accept(){set('yes');hide();loadGYG();loadGA();if(gaLoaded)gtag('consent','update',{analytics_storage:'granted'})}
+/* Track clicks on booking partner and WhatsApp links */
+function partnerOf(h){
+  if(/getyourguide\./i.test(h))return 'GetYourGuide';
+  if(/viator\.com/i.test(h))return 'Viator';
+  if(/wa\.me\//i.test(h))return 'WhatsApp';
+  return null}
+function trackLink(a){
+  if(!gaLoaded)return;
+  var h=a.href||'',p=partnerOf(h);if(!p)return;
+  var cmp='';try{cmp=new URL(h).searchParams.get('cmp')||''}catch(x){}
+  var box=a.closest('.card,article'),hd=(box&&box.querySelector('h2,h3'))||document.querySelector('h1');
+  gtag('event',p==='WhatsApp'?'whatsapp_click':'affiliate_click',{
+    partner:p,link_url:h.slice(0,500),link_text:(a.firstChild&&a.firstChild.textContent||'').trim().slice(0,100),campaign:cmp,
+    tour_name:hd?(hd.textContent||'').trim().slice(0,100):'',page_lang:document.documentElement.lang,transport_type:'beacon'});
+}
 var banner=document.querySelector('.consent');
 function hide(){if(banner)banner.hidden=true}
 var c=get();
-if(c==='yes')loadGYG();else if(!c&&banner)banner.hidden=false;
+if(c==='yes'){loadGYG();loadGA()}else if(!c&&banner)banner.hidden=false;
 document.addEventListener('click',function(e){
   var t=e.target;
-  if(t.closest('.js-consent-yes')){set('yes');hide();loadGYG()}
-  else if(t.closest('.js-consent-no')){set('no');hide()}
-  else if(t.closest('.js-gyg-accept')){set('yes');hide();loadGYG()}
+  var a=t.closest('a[href]');if(a)trackLink(a);
+  if(t.closest('.js-consent-yes'))accept();
+  else if(t.closest('.js-consent-no')){set('no');hide();denyGA()}
+  else if(t.closest('.js-gyg-accept'))accept();
   else if(t.closest('.js-consent-reset')){e.preventDefault();try{localStorage.removeItem(KEY)}catch(x){}if(banner)banner.hidden=false}
 });
 /* Comparator */
