@@ -1,0 +1,41 @@
+# Amalfi Coast Boat Guide
+
+> Independent guide that compares boat tours on the Amalfi Coast and to Capri (shared and private, from Positano, Amalfi and Sorrento, Blue Grotto), with transparent editorial scores, indicative prices, route maps and planning guides.
+
+Independent comparison guide. Ratings are editorial scores from a published method, not customer reviews. Prices are indicative ranges; live prices and availability come from GetYourGuide and Viator. Custom requests: WhatsApp +39 393 855 2086.
+
+Languages: English (/), Italiano (/it/), Español (/es/), Deutsch (/de/), Français (/fr/).
+
+## Key pages
+- [Compare boat tours](https://amalficoastboatguide.com/): filterable comparison of tour types
+- [Best boat tours, ranked](https://amalficoastboatguide.com/best-amalfi-coast-boat-tours/): ranking with scores per criterion
+- [How we rate](https://amalficoastboatguide.com/about/): method and affiliate disclosure
+
+## Guides
+- [Private vs shared boat tour on the Amalfi Coast](https://amalficoastboatguide.com/guides/private-vs-shared-boat-tour-amalfi-coast/): Private or shared boat tour on the Amalfi Coast and Capri? Cost per person, comfort, flexibility and who each option suits.
+- [Boat tours from Positano](https://amalficoastboatguide.com/guides/boat-tours-from-positano/): All boat tours from Positano compared: Capri day trips, sunset cruises, private boats, prices, departure point and tips.
+- [Boat tours from Amalfi](https://amalficoastboatguide.com/guides/boat-tours-from-amalfi/): Boat tours from Amalfi compared: Capri day trips, private coast cruises to Furore and the Emerald Grotto, prices and tips.
+- [Boat tours from Sorrento](https://amalficoastboatguide.com/guides/boat-tours-from-sorrento/): Boat tours from Sorrento compared: Capri day trips, Amalfi Coast cruises to Positano and Amalfi, private boats, prices and tips.
+- [Capri and the Blue Grotto by boat](https://amalficoastboatguide.com/guides/capri-blue-grotto-boat-tour/): Everything about visiting Capri and the Blue Grotto by boat: how entry works, cost, opening, queues, closures and which tours to pick.
+- [Amalfi Coast boat tours with kids](https://amalficoastboatguide.com/guides/amalfi-coast-boat-tour-with-kids/): Family guide to boat tours on the Amalfi Coast and Capri: best options by age, shade, life jackets, seasickness and what to pack.
+- [How much does an Amalfi Coast boat tour cost?](https://amalficoastboatguide.com/guides/amalfi-coast-boat-tour-prices/): How much Amalfi Coast and Capri boat tours cost: shared tours per person, private boats per day, extras like the Blue Grotto, and how to save.
+- [Best time for an Amalfi Coast boat tour](https://amalficoastboatguide.com/guides/best-time-for-amalfi-coast-boat-tour/): When to book a boat tour on the Amalfi Coast and Capri: best months, sea temperature, crowds, time of day and weather cancellations.
+
+## Tours
+- [Capri boat tour from Positano (shared)](https://amalficoastboatguide.com/tours/capri-boat-tour-from-positano/): The classic full day: Li Galli, a lap of Capri with swim stops and free time on the island.
+- [Capri boat tour from Amalfi (shared)](https://amalficoastboatguide.com/tours/capri-boat-tour-from-amalfi/): A longer day that shows the whole coast on the way to Capri.
+- [Capri boat tour from Sorrento (shared)](https://amalficoastboatguide.com/tours/capri-boat-tour-from-sorrento/): The shortest crossing to Capri, with more time around the island.
+- [Amalfi Coast boat tour from Sorrento (Positano & Amalfi)](https://amalficoastboatguide.com/tours/amalfi-coast-boat-tour-from-sorrento/): Skip the coast road: sail to Positano and Amalfi with time ashore in both.
+- [Private boat tour to Capri](https://amalficoastboatguide.com/tours/private-boat-tour-to-capri/): Your own boat and skipper for the day: Capri at your pace, with swims where you want.
+- [Private Amalfi Coast boat tour (half or full day)](https://amalficoastboatguide.com/tours/private-amalfi-coast-boat-tour/): A relaxed private cruise along the coast, from three hours to a full day.
+- [Positano sunset boat tour](https://amalficoastboatguide.com/tours/positano-sunset-boat-tour/): Two hours at golden hour, usually with a swim and an aperitivo off Positano.
+- [Capri island boat tour & Blue Grotto (from Capri)](https://amalficoastboatguide.com/tours/capri-island-boat-tour-blue-grotto/): One or two hours around Capri from Marina Grande, if you are already on the island.
+
+## Other languages
+- [Italiano](https://amalficoastboatguide.com/it/) · [Le migliori gite in barca in Costiera Amalfitana e a Capri](https://amalficoastboatguide.com/it/migliori-gite-in-barca-costiera-amalfitana/)
+- [Español](https://amalficoastboatguide.com/es/) · [Las mejores excursiones en barco por la Costa Amalfitana y Capri](https://amalficoastboatguide.com/es/mejores-excursiones-en-barco-costa-amalfitana/)
+- [Deutsch](https://amalficoastboatguide.com/de/) · [Die besten Bootstouren an der Amalfiküste und nach Capri](https://amalficoastboatguide.com/de/beste-bootstouren-amalfikueste/)
+- [Français](https://amalficoastboatguide.com/fr/) · [Les meilleures excursions en bateau sur la côte amalfitaine et à Capri](https://amalficoastboatguide.com/fr/meilleures-excursions-bateau-cote-amalfitaine/)
+
+## Optional
+- [Full text of English pages](https://amalficoastboatguide.com/llms-full.txt)
