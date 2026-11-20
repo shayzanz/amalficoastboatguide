@@ -281,15 +281,22 @@ L = {
  'with-kids': {
     'slug': 'amalfi-coast-boat-tour-with-kids', 'nav': 'Boat tours with kids',
     'teaser': 'Which boat days work with children, and what to pack.',
-    'title': 'Amalfi Coast Boat Tour with Kids: Best Options & Tips',
-    'desc': 'Family guide to boat tours on the Amalfi Coast and Capri: best options by age, shade, life jackets, seasickness and what to pack.',
+    'title': 'Amalfi Coast Boat Tour with Kids: Best Family Trips by Age (2027)',
+    'desc': 'Kid-friendly boat tours on the Amalfi Coast and Capri: which trip suits which age, how long is too long, prices for families, life jackets, shade and seasickness.',
     'h1': 'Amalfi Coast boat tours with kids', 'lead': 'A boat day can be the highlight of a family holiday, or a long hot day at sea. The difference is choosing the right format.',
-    'answer': 'With children under about eight, choose a private boat for three to four hours along the coast, or a sunset cruise. Older children usually enjoy a full Capri day, ideally on a small group or private boat with shade.',
+    'answer': 'With children under about eight, choose a private boat for three to four hours along the coast (about €450–900 for the whole boat) or a two hour sunset cruise (€50–95 per person). From about nine, most children enjoy a full Capri day, ideally on a small-group or private boat with shade.',
     'body': '''<h2>Best options by age</h2>
 <table><tr><th>Age</th><th>Best choice</th></tr>
 <tr><td>Babies and toddlers</td><td>Short private coast cruise or sunset cruise</td></tr>
 <tr><td>4–8 years</td><td>Private half day, or Capri island tour if already on Capri</td></tr>
 <tr><td>9+ years</td><td>Full-day Capri tour, private if budget allows</td></tr></table>
+<h2>How long is too long?</h2>
+<p>A full Capri day means seven to eight hours, with close to two hours of sailing in total. That works for most children from about nine who like the water. Younger ones usually do best with two to four hours and a swim in the middle. The giveaway is waiting time: queues at the Blue Grotto and crowded Marina Grande wear children out faster than the sea does.</p>
+<h2>Kid-friendly boat trips by where you stay</h2>
+<ul><li><b>Positano:</b> the <a href="{tour:sunset-positano}">sunset cruise to Li Galli</a> is short and calm, a good first boat trip. For a longer day, a <a href="{tour:private-coast}">private coast cruise</a> lets you stop at a quiet cove whenever someone needs a swim or a snack.</li>
+<li><b>Amalfi:</b> a private half day to the Emerald Grotto and the Furore fjord stays in sheltered water close to the shore. <a href="{tour:private-coast}">Route and prices</a>.</li>
+<li><b>Sorrento:</b> Capri is under an hour away, the shortest crossing on the coast, so a <a href="{tour:capri-sorrento}">Capri tour from Sorrento</a> is the easiest full day with older kids.</li>
+<li><b>Already on Capri:</b> the <a href="{tour:capri-island}">one to two hour island tour</a> from Marina Grande is a gentle option for any age.</li></ul>
 <h2>What to ask the operator</h2>
 <ul><li>Are there life jackets in children's sizes?</li><li>Does the boat have a shade canopy?</li><li>Is there a toilet on board? (Small gozzo boats usually do not.)</li><li>Can the plan be shortened if a child is unwell?</li></ul>
 <h2>Seasickness</h2>
@@ -300,11 +307,13 @@ L = {
 <p>For a family of four or five the price gap narrows, and the freedom to stop, swim and turn back is what makes the day work with kids.</p>''',
     'faq': [('Are boat tours on the Amalfi Coast safe for babies?', 'Short trips in calm water are generally fine. Bring an infant life jacket if the operator does not have one, and keep the trip short.'),
             ('Do children pay full price?', 'Policies vary. Shared tours often discount children; private boats charge per boat, not per person.'),
-            ('What is the best family boat tour from Positano?', 'A private three to four hour cruise along the coast, or the sunset cruise for younger children.')]},
+            ('What is the best family boat tour from Positano?', 'A private three to four hour cruise along the coast, or the sunset cruise for younger children.'),
+            ('What age is good for a Capri boat tour?', 'Most children from about nine cope well with a full Capri day. Younger children can do it on a private boat that can shorten the plan, but a half day on the coast is usually happier for everyone.'),
+            ('Is there a toilet on Amalfi Coast tour boats?', 'Larger tour boats and yachts usually have one, small wooden gozzo boats usually do not. Ask before booking if you travel with young children.')]},
  'prices': {
     'slug': 'amalfi-coast-boat-tour-prices', 'nav': 'Boat tour prices',
     'teaser': 'What boat tours cost in 2027 and what drives the price.',
-    'title': 'Amalfi Coast Boat Tour Prices 2027: Shared, Private, Capri',
+    'title': 'Amalfi Coast Boat Tour Prices 2027: Shared, Private & Water Taxi',
     'desc': 'How much Amalfi Coast and Capri boat tours cost: shared tours per person, private boats per day, extras like the Blue Grotto, and how to save.',
     'h1': 'How much does an Amalfi Coast boat tour cost?', 'lead': 'Typical price ranges across listings, what is included and the extras people forget.',
     'answer': 'Shared full-day tours to Capri usually cost €80–180 per person. Private boats cost around €450–1,500 for the coast and €900–2,200 for a full day to Capri, per boat. Short sunset cruises are about €50–95 per person.',
@@ -318,6 +327,12 @@ L = {
 <tr><td>Private coast cruise (3–8 h)</td><td>€450–1,500 per boat</td></tr>
 <tr><td>Private boat to Capri (full day)</td><td>€900–2,200 per boat</td></tr></table>
 <p>Ranges are indicative and move with season, date and boat. Always check the live price for your date.</p>
+<h2>Private boat price per person</h2>
+<p>Private boats are priced per boat, so the cost per head falls quickly as the group grows. A coast cruise at €600 is €300 each for a couple and €100 each for six people. A Capri day at €1,400 is €700 each for two and about €175 each for eight, close to a shared tour. For two people, a private boat is a treat for a special day; from six people it is often the better deal.</p>
+<h2>Water taxi and private transfers</h2>
+<p>A water taxi on the Amalfi Coast is a private boat that takes you from one town to another, for example Positano to Amalfi or to a beach club, with no stops on the way. It is priced per boat, roughly €100–300 for short hops along the coast and more for Capri, depending on distance, boat and season. Public ferries between Positano, Amalfi and Capri are much cheaper per person but follow a timetable and stop running in the evening and in rough sea.</p>
+<h2>Boat rental without a skipper</h2>
+<p>In Italy you can rent a small motorboat (up to 40 hp) without a licence. Expect roughly €150–350 for a day in season, with fuel usually extra. It is the cheapest way to have a boat to yourself, but you plan the route, handle the anchoring and cannot go far: Capri is generally too far for these boats. With children or little boating experience, a boat with a skipper is the safer choice.</p>
 <h2>What drives the price</h2>
 <ul><li><b>Season:</b> July and August are the most expensive; May, June and September offer the best balance.</li>
 <li><b>Distance:</b> Capri from Amalfi uses more fuel than from Sorrento.</li>
@@ -326,7 +341,9 @@ L = {
 <p>Blue Grotto entry (paid on the spot), Capri funicular, lunch ashore, Emerald Grotto ticket, tips for the crew, and on private boats possibly fuel and port fees.</p>
 <h2>How to save</h2>
 <p>Travel in the shoulder season, start from Sorrento for Capri, share a private boat with friends, and book refundable options early before the best boats sell out.</p>''',
-    'faq': [('Is it cheaper to book boat tours locally in Positano?', 'Sometimes on the day, but in high season the best boats sell out. Booking online with free cancellation secures a place.'),
+    'faq': [('How much is a private boat tour for two people on the Amalfi Coast?', 'A private boat costs the same whether you are two or eight: roughly €450–1,500 for a coast cruise and €900–2,200 for a full day to Capri. For two people a shared tour (€80–180 each) is far cheaper.'),
+            ('How much does a water taxi cost on the Amalfi Coast?', 'Roughly €100–300 per boat for a short private transfer between towns, more for Capri. Prices depend on distance, boat and season.'),
+            ('Is it cheaper to book boat tours locally in Positano?', 'Sometimes on the day, but in high season the best boats sell out. Booking online with free cancellation secures a place.'),
             ('Do you tip on a boat tour in Italy?', 'Not mandatory. On private boats 5 to 10 percent for a great skipper is appreciated.'),
             ('Are drinks included?', 'Usually water and soft drinks, often prosecco or limoncello. Lunch is rarely included on shared Capri tours.')]},
  'best-time': {
