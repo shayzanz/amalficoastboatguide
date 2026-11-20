@@ -323,9 +323,17 @@ L = {
 <li><b>Barca:</b> gozzo, motoscafo o yacht.</li><li><b>Dimensione del gruppo:</b> i piccoli gruppi costano più delle barche grandi.</li></ul>
 <h2>Extra da mettere in conto</h2>
 <p>Ingresso alla Grotta Azzurra (pagato sul posto), funicolare di Capri, pranzo a terra, biglietto della Grotta dello Smeraldo, mance per l'equipaggio e, sulle barche private, a volte carburante e diritti portuali.</p>
+<h2>Barca privata: quanto costa a persona</h2>
+<p>La barca privata si paga a barca, quindi il costo a testa scende in fretta con il gruppo. Una crociera in costiera da 600 € costa 300 € a testa in due e 100 € a testa in sei. Una giornata a Capri da 1.400 € costa 700 € a testa in due e circa 175 € a testa in otto, vicino a una gita condivisa. In due la barca privata è un regalo per un giorno speciale; da sei persone spesso è l'affare migliore.</p>
+<h2>Taxi del mare e trasferimenti privati</h2>
+<p>Il taxi del mare è una barca privata che ti porta da un paese all'altro, per esempio da Positano ad Amalfi o a un lido, senza soste. Si paga a barca, all'incirca 100–300 € per i tratti brevi in costiera e di più per Capri, a seconda di distanza, barca e stagione. I traghetti di linea costano molto meno a persona ma hanno orari fissi e si fermano la sera e con il mare mosso.</p>
+<h2>Noleggio barca senza patente</h2>
+<p>In Italia si può noleggiare senza patente una piccola barca a motore (fino a 40 cavalli). In stagione si spende all'incirca 150–350 € al giorno, carburante di solito escluso. È il modo più economico per avere una barca tutta per sé, ma il percorso e l'ancoraggio sono a carico tuo e non si va lontano: Capri di solito è troppo distante per queste barche. Con bambini o poca esperienza è meglio una barca con skipper.</p>
 <h2>Come risparmiare</h2>
 <p>Viaggia in bassa stagione, parti da Sorrento per Capri, dividi una barca privata con amici e prenota presto opzioni rimborsabili prima che le barche migliori siano esaurite.</p>''',
-    'faq': [('Conviene prenotare le gite in barca direttamente a Positano?', 'A volte sul momento, ma in alta stagione le barche migliori sono esaurite. Prenotare online con cancellazione gratuita ti garantisce il posto.'),
+    'faq': [('Quanto costa una gita in barca privata per due persone?', 'La barca privata costa uguale in due o in otto: circa 450–1.500 € per una crociera in costiera e 900–2.200 € per una giornata a Capri. In due una gita condivisa (80–180 € a testa) costa molto meno.'),
+            ('Quanto costa un taxi del mare in Costiera Amalfitana?', 'All\'incirca 100–300 € a barca per un breve trasferimento privato tra due paesi, di più per Capri. Dipende da distanza, barca e stagione.'),
+            ('Conviene prenotare le gite in barca direttamente a Positano?', 'A volte sul momento, ma in alta stagione le barche migliori sono esaurite. Prenotare online con cancellazione gratuita ti garantisce il posto.'),
             ('Si lascia la mancia in una gita in barca in Italia?', 'Non è obbligatoria. Sulle barche private un 5–10% per uno skipper eccellente è apprezzato.'),
             ('Le bevande sono incluse?', 'Di solito acqua e bibite, spesso prosecco o limoncello. Il pranzo raramente è incluso nelle gite condivise a Capri.')]},
  'best-time': {
