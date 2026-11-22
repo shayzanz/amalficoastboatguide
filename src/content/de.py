@@ -220,12 +220,19 @@ L = {
 <p>Die Touren starten am Hafen von Amalfi, neben den Fähranlegern an der Uferpromenade nahe der Piazza Flavio Gioia. Aus Ravello fährt man meist mit Bus oder Taxi hinunter; im Sommer Verkehr einplanen.</p>
 <h2>Capri ab Amalfi</h2>
 <p>Die Überfahrt nach Capri ist länger als ab Positano oder Sorrent, etwa anderthalb Stunden pro Strecke, dafür siehst du unterwegs die ganze Küste. Gruppentouren machen daraus einen langen, aber sehr vollen Tag. <a href="{tour:capri-amalfi}">Route ansehen</a>. Mit dem Privatboot macht ein Speedboot die Strecke deutlich angenehmer.</p>
+<h2>Von Amalfi nach Capri: Tour, Fähre oder Privatboot?</h2>
+<table><tr><th>Option</th><th>Dauer pro Strecke</th><th>Was du bekommst</th></tr>
+<tr><td>Linienfähre (Saison)</td><td>etwa 1 bis 1,5 Stunden</td><td>Günstigste Überfahrt, feste Zeiten, keine Inselrundfahrt, keine Badestopps</td></tr>
+<tr><td>Capri-Gruppentour</td><td>etwa 75–90 Minuten</td><td>Die ganze Küste vom Meer, Rundfahrt um Capri, Blaue Grotte wenn offen, Badestopps, Freizeit auf der Insel</td></tr>
+<tr><td>Privates Speedboot</td><td>etwa 45–60 Minuten</td><td>Gleiche Ziele in deinem Tempo, früher Start möglich</td></tr></table>
+<p>Wer nur durch Capri und Anacapri spazieren will, kommt mit der Fähre aus. Wer die Insel vom Meer aus sehen und baden möchte, hat mit der Tour den schöneren Tag. Fahrpläne und Preise ändern sich je nach Saison.</p>
 <h2>Die Küste ab Amalfi</h2>
 <p>Zwischen Amalfi und Positano liegen die schönsten Ziele vom Meer aus: die Smaragdgrotte, der Fjord von Furore und die Strände von Praiano. Eine <a href="{tour:private-coast}">private Halbtagesfahrt</a> deckt sie entspannt ab und kann Positano vom Wasser aus einschließen.</p>
 <h2>Tipps</h2>
 <p>Wenn Capri Priorität hat und du flexibel bist, starte ab Positano und gewinne eine Stunde auf der Insel. Im Juli und August sind Touren ab Amalfi oft weniger voll als ab Positano.</p>''',
     'faq': [('Wie weit ist Capri von Amalfi mit dem Boot?', 'Rund 35 km über das Meer, etwa 75 bis 90 Minuten mit einem Ausflugsboot und schneller mit dem Speedboot.'),
             ('Kann man die Smaragdgrotte per Boot ab Amalfi besuchen?', 'Ja, viele Privatboote und einige Gruppentouren halten dort. Der Eintritt in die Grotte ist ein eigenes Ticket.'),
+            ('Wie kommt man von Amalfi nach Capri?', 'In der Saison mit der Linienfähre oder mit einer Capri-Bootstour ab dem Hafen von Amalfi. Die Tour dauert den ganzen Tag und umfasst Rundfahrt, Badestopps und Freizeit auf der Insel.'),
             ('Ist Ravello ein guter Ausgangspunkt für Bootstouren?', 'Ja, über den Hafen von Amalfi, etwa 20 Minuten mit Bus oder Taxi.')]},
  'from-sorrento': {
     'slug': 'bootstouren-ab-sorrent', 'nav': 'Bootstouren ab Sorrent',

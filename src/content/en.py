@@ -186,6 +186,8 @@ L = {
 <ul><li>you are travelling alone, as a couple or as a small group on a budget;</li><li>you enjoy meeting other travellers;</li><li>you are happy with a set plan.</li></ul>
 <h2>Choose private if</h2>
 <ul><li>you have children who need shade, snacks and shorter stretches;</li><li>it is a honeymoon, proposal or birthday;</li><li>you want a specific beach club lunch or an early Blue Grotto attempt;</li><li>you are six or more.</li></ul>
+<h2>Large groups</h2>
+<p>A typical gozzo takes 8 to 12 passengers. For 12 to 20 people the usual answer is a larger motor yacht or two boats travelling together, which lets the group swim and eat at the same stops. Ask for both quotes: two gozzos are often cheaper than one big yacht and easier to book in high season. For groups, send dates and numbers early, because operators with several matching boats are booked first.</p>
 <h2>What to check before booking either</h2>
 <p>Group size (small group means roughly 12 or fewer), what drinks and snorkel gear are included, whether fuel and port fees are extra on private boats, and the cancellation policy for bad weather.</p>''',
     'faq': [('Is a private boat tour on the Amalfi Coast worth the money?', 'For groups of six or more, families and special occasions, usually yes: per person it costs little more than shared seats and the day is far more flexible.'),
@@ -262,7 +264,7 @@ L = {
     'title': 'Capri Blue Grotto Boat Tour: How It Works, Tips & Best Time',
     'desc': 'Everything about visiting Capri and the Blue Grotto by boat: how entry works, cost, opening, queues, closures and which tours to pick.',
     'h1': 'Capri and the Blue Grotto by boat', 'lead': 'The Blue Grotto is the most famous sight on Capri and the most misunderstood.',
-    'answer': 'No boat tour can enter the Blue Grotto itself. Tours stop outside and you transfer to a small rowing boat, paying a separate fee on the spot. It closes when the sea is rough, so treat it as a bonus, not the reason for the trip.',
+    'answer': 'No tour boat can enter the Blue Grotto. Boats stop outside and you move into a small rowing boat, paying the entry on the spot (around €20 per person in recent seasons, cash). You spend about five minutes inside. It only opens in calm sea, so treat it as a bonus, not the reason for the trip.',
     'body': '''<h2>How entry works</h2>
 <p>The entrance is a hole in the rock about a metre high. Visitors move from their tour boat into small rowing boats holding a few people, lie back as the rower pulls through on a chain, and spend a few minutes inside the glowing blue cave. The fee for the rowing boat and the entry is paid there, in recent seasons around €20 per person. Bring cash and check the current price.</p>
 <h2>When it closes</h2>
@@ -273,11 +275,19 @@ L = {
 <ul><li>Staying on the coast: a <a href="{tour:capri-positano}">Capri boat tour</a> from Positano, Amalfi or Sorrento.</li>
 <li>Already on Capri: the <a href="{tour:capri-island}">island tour from Marina Grande</a>.</li>
 <li>Want the best chance: a <a href="{tour:private-capri}">private boat</a> with an early start.</li></ul>
+<h2>Getting there by boat from the coast</h2>
+<table><tr><th>Starting from</th><th>Crossing to Capri</th><th>Tour</th></tr>
+<tr><td>Sorrento</td><td>30–50 minutes</td><td><a href="{tour:capri-sorrento}">Capri tour from Sorrento</a></td></tr>
+<tr><td>Positano</td><td>45–60 minutes</td><td><a href="{tour:capri-positano}">Capri tour from Positano</a></td></tr>
+<tr><td>Amalfi</td><td>75–90 minutes</td><td><a href="{tour:capri-amalfi}">Capri tour from Amalfi</a></td></tr></table>
+<p>All of them include a lap of the island with a stop near the grotto when it is open. The shorter the crossing, the better your chance of reaching it early, before the queue builds.</p>
 <h2>Beyond the Blue Grotto</h2>
 <p>The Faraglioni rocks, the arch you can sail through, the green and white grottoes and the coves near Punta Carena are often more memorable than the Blue Grotto itself, and they are on every island lap.</p>''',
     'faq': [('Can you swim in the Blue Grotto?', 'No. Swimming inside is not allowed during opening hours.'),
             ('Is the Blue Grotto worth it?', 'In calm weather and without a long queue, yes: the light is extraordinary. With a long wait, many visitors prefer more swim time elsewhere.'),
-            ('Can children enter the Blue Grotto?', 'Yes, children travel in the rowing boats with their parents.')]},
+            ('Can children enter the Blue Grotto?', 'Yes, children travel in the rowing boats with their parents.'),
+            ('How long do you spend inside the Blue Grotto?', 'About five minutes. The wait outside to board a rowing boat is often much longer in summer.'),
+            ('Is the Blue Grotto open every day?', 'Only when the sea is calm enough. It closes often in spring and autumn, and on windy days even in summer, sometimes with little notice.')]},
  'with-kids': {
     'slug': 'amalfi-coast-boat-tour-with-kids', 'nav': 'Boat tours with kids',
     'teaser': 'Which boat days work with children, and what to pack.',
@@ -349,10 +359,10 @@ L = {
  'best-time': {
     'slug': 'best-time-for-amalfi-coast-boat-tour', 'nav': 'When to go',
     'teaser': 'Best months, best time of day and what happens if the weather turns.',
-    'title': 'Best Time for an Amalfi Coast Boat Tour: Month by Month',
+    'title': 'Best Time for an Amalfi Coast Boat Tour (2027): Month by Month',
     'desc': 'When to book a boat tour on the Amalfi Coast and Capri: best months, sea temperature, crowds, time of day and weather cancellations.',
     'h1': 'Best time for an Amalfi Coast boat tour', 'lead': 'The boat season is long, but not every month gives the same day at sea.',
-    'answer': 'Late May, June and September are the sweet spot: warm water, long days and fewer crowds than July and August. Book a morning departure for calmer sea.',
+    'answer': 'Late May, June and September are the sweet spot: the sea is around 21–24 °C, days are long and Capri is less crowded than in July and August. The season runs from about April to October. Book a morning departure for calmer sea and shorter Blue Grotto queues.',
     'body': '''<h2>Month by month</h2>
 <table><tr><th>Month</th><th>What to expect</th></tr>
 <tr><td>April</td><td>Season starts, cool water, fewer departures, greener cliffs.</td></tr>
@@ -366,11 +376,17 @@ L = {
 <p>Mornings are usually calmer. Afternoon breezes can make the return choppy. For photos, the late afternoon light on Positano is the best of the day.</p>
 <h2>Weather and cancellations</h2>
 <p>Skippers cancel when the sea is unsafe; reputable operators rebook or refund. Book your boat day early in your stay and choose listings with free cancellation so a rough day costs you nothing.</p>
+<h2>Best time for Capri and the Blue Grotto</h2>
+<p>The Blue Grotto needs a flat sea, so June and September give the best odds: calm days are common and the queue of rowing boats is shorter than in August. Aim to be there in the morning. A <a href="{tour:private-capri}">private boat</a> can leave early and arrive before the shared tours; on a shared <a href="{tour:capri-positano}">Capri tour</a>, ask what time the boat usually reaches the grotto. More in our <a href="{guide:capri-blue-grotto}">Blue Grotto guide</a>.</p>
+<h2>Best time to charter a yacht or private boat</h2>
+<p>For a private gozzo or a yacht, June and September are the best value: warm water, steady weather and more boats free than in high summer. In July and August the best boats are booked weeks ahead and prices are at their peak. May and early October work too if you can accept cooler water and a higher chance of losing a day to wind.</p>
 <h2>Booking ahead</h2>
 <p>For June to September, book two to six weeks ahead for the best small-group and private boats. For May 2027 departures, prices and availability are already live on the partner sites.</p>''',
     'faq': [('What is the sea temperature on the Amalfi Coast?', 'Roughly 18 °C in May, 23 °C in June, 25–26 °C in August and 23–24 °C in September.'),
             ('What happens if my boat tour is cancelled for weather?', 'You are normally offered a new date or a refund. Check the cancellation terms before booking.'),
-            ('Is October too late for a boat tour?', 'Not necessarily: many days are calm and warm, but keep a spare day in case of cancellation.')]},
+            ('Is October too late for a boat tour?', 'Not necessarily: many days are calm and warm, but keep a spare day in case of cancellation.'),
+            ('When is the best time to charter a yacht on the Amalfi Coast?', 'June and September: warm sea, settled weather and better availability and prices than July and August.'),
+            ('What time of day is best for a boat tour?', 'Morning, when the sea is usually calmest. For photos of Positano, a late afternoon or sunset trip has the best light.')]},
 },
 'about': {'title': 'How We Rate Boat Tours | Amalfi Coast Boat Guide', 'desc': 'Our method for scoring Amalfi Coast boat tours, our independence and affiliate disclosure.',
           'h1': 'How we rate boat tours',
