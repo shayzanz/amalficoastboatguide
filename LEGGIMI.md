@@ -1,9 +1,7 @@
 # amalficoastboatguide.com: come pubblicare
 
-## 1. Pubblicazione (Netlify Drop)
-1. Scompatta `amalficoastboatguide-site.zip` (oppure usa direttamente la cartella `site/`).
-2. Trascina la cartella `site` su https://app.netlify.com/drop
-3. In Netlify: Domain settings → aggiungi `amalficoastboatguide.com` come dominio principale (www reindirizza in automatico). Attiva HTTPS.
+## 1. Pubblicazione (Cloudflare)
+Il sito è su Cloudflare Workers, collegato al repo GitHub `shayzanz/amalficoastboatguide`. Basta fare push (o merge) su `main` con la cartella `site/` aggiornata: Cloudflare pubblica da solo in un paio di minuti. Dettagli tecnici nel README.
 
 ## 2. Indicizzazione (appena il sito è online)
 - **Google Search Console**: aggiungi la proprietà di dominio, invia `https://amalficoastboatguide.com/sitemap.xml`.
