@@ -131,10 +131,21 @@ L = {
     'best_for': 'Sorrento guests who want to see Positano and Amalfi'},
  'private-capri': {
     'slug': 'private-boat-tour-to-capri', 'name': 'Private boat tour to Capri',
-    'title': 'Private Boat Tour to Capri from Positano, Amalfi or Sorrento',
+    'title': 'Private Boat Tour to Capri from Positano, Amalfi or Sorrento (2027)',
     'desc': 'Private boat day to Capri: how it works, gozzo vs speedboat, typical price per boat, route map and tips to choose.',
     'short': 'Your own boat and skipper for the day: Capri at your pace, with swims where you want.',
     'long': '<p>A private day follows the same basic route as the shared tours, but the skipper adapts it to you: longer swims at the Faraglioni, lunch at a beach club in Marina Piccola or Anacapri, an early start to beat the queue at the Blue Grotto. Departures are possible from Positano, Amalfi, Praiano or Sorrento.</p><p>Price depends mostly on the boat. A traditional wooden <i>gozzo</i> with a sun canopy is the classic choice, a speedboat is faster and better from Amalfi, a yacht costs considerably more. Split between six or eight people, a gozzo is often not much more per head than a shared tour.</p>',
+    'more': '''<h3>Private boat from Positano to Capri</h3>
+<p>Positano is the most common start: the crossing takes 45 to 60 minutes in a gozzo and less in a speedboat. A typical day runs from about 9:30 to 17:30, with a swim at the Li Galli islands on the way, a slow lap of Capri, time for lunch ashore or on board, and a last swim near Nerano on the way back. From Sorrento the crossing is shorter; from Amalfi a speedboat is worth the extra cost.</p>
+<h3>Gozzo, speedboat or yacht?</h3>
+<table><tr><th>Boat</th><th>Typical price per day</th><th>Good for</th></tr>
+<tr><td>Wooden gozzo (8–12 people)</td><td>€900–1,600</td><td>The classic day, shade, calm pace</td></tr>
+<tr><td>Speedboat / RIB</td><td>€1,100–2,000</td><td>Longer distances, starting from Amalfi</td></tr>
+<tr><td>Motor yacht</td><td>€2,000 and up</td><td>Comfort, cabin and toilet, larger groups</td></tr></table>
+<p>Indicative ranges for the season. Fuel is usually included for a standard Capri day, but ask. For two people a <a href="{tour:capri-positano}">shared small-group tour</a> costs far less; see also <a href="{guide:private-vs-group}">private vs shared</a>.</p>''',
+    'faq': [('How much is a private boat from Positano to Capri?', 'Roughly €900–1,600 for a wooden gozzo for the day and more for a speedboat or yacht, for the whole boat, not per person.'),
+            ('How many people fit on a private boat to Capri?', 'Most gozzo boats take 8 to 12 passengers. For bigger groups ask for a larger yacht or two boats.'),
+            ('Is lunch included on a private Capri boat tour?', 'Usually drinks and light snacks are, lunch is not. Many skippers will book a table at a beach restaurant for you.')],
     'highlights': ['Completely flexible itinerary', 'Best for families, honeymoons and groups', 'Skipper doubles as a local guide'],
     'watch': ['Fuel and port fees may be extra', 'Clarify what drinks and food are included', 'Book early for July and August'],
     'best_for': 'couples, families and groups of 4 to 10'},
@@ -149,10 +160,19 @@ L = {
     'best_for': 'families and anyone who prefers swimming to sightseeing'},
  'sunset-positano': {
     'slug': 'positano-sunset-boat-tour', 'name': 'Positano sunset boat tour',
-    'title': 'Positano Sunset Boat Tour: What to Expect & Price',
-    'desc': 'Sunset boat tour from Positano to the Li Galli islands with an aperitivo: duration, price range, route and tips.',
+    'title': 'Positano Sunset Boat Tour (2027): Times, Price & What to Expect',
+    'desc': 'Positano sunset cruise to the Li Galli islands: departure times by month, 2 to 3 hours, about €50–95 per person, swim stop, aperitivo, private option and tips.',
     'short': 'Two hours at golden hour, usually with a swim and an aperitivo off Positano.',
     'long': '<p>Short evening cruises leave Positano in the late afternoon, sail toward the Li Galli islands for a swim and return as the sun drops behind the coast, so you see Positano light up from the water. Most include a glass of prosecco or limoncello and snacks.</p><p>It is the best boat option if you only have an evening, and an easy first time on a boat for children or anyone unsure about seasickness.</p>',
+    'more': '''<h3>What time does the sunset cruise leave?</h3>
+<p>Boats usually leave Positano about two hours before sunset, so the time moves through the season. As a rough guide: around 18:00 in May, 18:30 in June and July, 17:30 in early September and about 16:30 in October. Operators confirm the exact time the day before.</p>
+<h3>Price and what is included</h3>
+<p>Shared sunset cruises cost about €50–95 per person for two to three hours. That normally covers a swim stop near the Li Galli islands, a glass of prosecco or limoncello and a few snacks. A private boat at sunset is priced per boat, roughly €300–700 depending on the boat and the length, and is often the nicer choice for a couple or a proposal.</p>
+<h3>Sunset cruise or Capri day?</h3>
+<p>They do different jobs. The sunset trip is short, calm and relaxed, perfect for a free evening or as a first time on the water. If you want to see Capri, the Faraglioni and the Blue Grotto, you need a full day: see the <a href="{tour:capri-positano}">Capri boat tour from Positano</a>. Many visitors do both on different days.</p>''',
+    'faq': [('How long is the Positano sunset boat tour?', 'Usually two to three hours, including a swim stop and an aperitivo on board.'),
+            ('How much is a sunset boat tour in Positano?', 'About €50–95 per person on a shared boat. A private sunset boat costs roughly €300–700 for the whole boat.'),
+            ('Can you see the sun set into the sea from Positano?', 'Not always. In early summer the sun sets behind the hills toward Sorrento. The best part is the warm light on Positano and the islands.')],
     'highlights': ['Short and easy to fit in', 'Best light of the day', 'Good introduction for children'],
     'watch': ['Exact sunset view depends on the season', 'Shared versions can feel crowded', 'Not a sightseeing tour'],
     'best_for': 'couples and anyone with only one evening'},

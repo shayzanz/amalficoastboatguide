@@ -463,7 +463,7 @@ def tour_page(l, t):
   <div id="map" class="map" data-route='{json.dumps([[r["lat"], r["lng"], r["name"] if r["stop"] else ""] for r in route], ensure_ascii=False)}' aria-label="{esc(u['map_label'])}">{route_svg(route)}</div>
   <p class="small">{u['map_note']}</p>
   <h2>{u['route']}</h2><ol class="stops">{stops_list}</ol>
-  <div class="prose">{tt['long']}</div>
+  <div class="prose">{tt['long']}{links(l, tt.get('more', ''))}</div>
   <div class="two"><div><h3>{u['why_we_like']}</h3><ul>{''.join(f'<li>{esc(x)}</li>' for x in tt['highlights'])}</ul></div>
   <div><h3>{u['watch_out']}</h3><ul>{''.join(f'<li>{esc(x)}</li>' for x in tt['watch'])}</ul></div></div>
 </div>
@@ -482,6 +482,7 @@ def tour_page(l, t):
   {f'<div class="box"><h2>{u["related_guides"]}</h2><ul>{rel}</ul></div>' if rel else ''}
 </aside>
 </div>
+{faq_html(l, tt['faq']) if tt.get('faq') else ''}
 <h2>{u['similar']}</h2><div class="grid">{others}</div>
 </div>
 <link rel="stylesheet" href="/assets/leaflet/leaflet.css">
@@ -494,6 +495,8 @@ def tour_page(l, t):
                                 "geo": {"@type": "GeoCoordinates", "latitude": r['lat'], "longitude": r['lng']}}}
                       for i, r in enumerate([r for r in route if r['stop']])]},
                   "provider": {"@id": absu('/#org')}}]
+    if tt.get('faq'):
+        sch.append(faq_schema(tt['faq']))
     return page(l, 'tour', t['id'], tt['title'], tt['desc'], body, sch, 'article')
 
 
